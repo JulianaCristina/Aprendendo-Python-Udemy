@@ -1,4 +1,4 @@
 # Aprendendo-Python-Udemy
 
-#comentario
-Caracteres especiais - #-*-coding: utf-8 -*-
+#comentario <br>
+<b>Caracteres especiais</b> - #-*-coding: utf-8 -*-
