@@ -22,3 +22,7 @@ arquivo = open("arquivo.txt")
 
 texto_completo = arquivo.read()
 print(texto_completo)
+
+w=open("arquivo2.txt", "w")
+w.write("Esse é o meu arquivo")
+w.close
